@@ -21,7 +21,7 @@ const BestSeller = () => {
         <Title text1='BEST' text2='SELLERS' />
       </div>
       <p className='w-3/4 m-auto text-sm md:text-base text-gray-600 text-center mb-8'>
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry..
       </p>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
             {bestSeller.map((item, index) => (
